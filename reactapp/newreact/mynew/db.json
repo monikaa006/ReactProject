@@ -1,0 +1,24 @@
+{
+    "lang": [
+        {
+            "id": "62fb99516789e9c4ee1dfb8b",
+            "language": "C",
+            "codeBase": "#include <stdio.h>\n#include <stdlib.h>\nint main(int argc, char *argv[]) {       \n\tint n = atoi(argv[1]); // taking parameter from command line and convert to int\n \n \t//write your code here\n \t\n\treturn 0;  \n}"
+        },
+        {
+            "id": "62fb998c6789e9c4ee1dfb8c",
+            "language": "C++",
+            "codeBase": "#include <iostream>\n#include <stdlib.h>\nusing namespace std;\n  int main(int argc, char** argv) {    \n     int n = atoi(argv[1]); // taking parameter from command line and convert to int\n     int num = atoi(argv[1]); // taking parameter from command line and convert to int\n    \n\t\n\t// write your code here\n\t\n    return 0;   \n}"
+        },
+        {
+            "id": "62fb999e6789e9c4ee1dfb8d",
+            "language": "Java",
+            "codeBase": "public class Main{\n  public static void main(String args[]){\n\tint n = Integer.parseInt(args[0]); // taking parameter from command line and convert to int\n \n \t//write your code here\n       \n  }\n}"
+        },
+        {
+            "id": "62fb99ae6789e9c4ee1dfb8e",
+            "language": "Python",
+            "codeBase": "import sys\nn = len(sys.argv)\nm = sys.argv[0] // taking parameter from command line\n \n \t//write your code here"
+        }
+    ]
+}

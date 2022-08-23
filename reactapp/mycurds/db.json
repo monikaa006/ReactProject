@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "zlame",
+      "username": "zlay",
+      "email": "abc@karina.bi",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "1234567",
+      "website": "sub.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "name": "memo",
+      "username": "dummy ",
+      "email": "dummy@gmail.com",
+      "phone": "45678987",
+      "website": "domato.com",
+      "id": 2
+    },
+    {
+      "name": "save",
+      "username": "savetext",
+      "email": "save@gmail.com",
+      "phone": "741852963",
+      "website": "nm.com",
+      "id": 3
+    },
+    {
+      "name": "monika",
+      "username": "dfghj",
+      "email": "sdfghjk@gmail.com",
+      "phone": "7418596641",
+      "website": "vbnm,",
+      "id": 5
+    },
+    {
+      "name": "ertyu",
+      "username": "hj",
+      "email": "cvbnm@gmail.com",
+      "phone": "748585",
+      "website": "cvbnm",
+      "id": 6
+    },
+    {
+      "name": "op",
+      "username": "oyu",
+      "email": "xyz@gmail.com",
+      "phone": "41856",
+      "website": "dfghj",
+      "id": 7
+    },
+    {
+      "name": "sonikap",
+      "username": "pandole",
+      "email": "pandole@gmail.com",
+      "phone": "123456709",
+      "website": "yui.yuio",
+      "id": 9
+    },
+    {
+      "name": "post",
+      "username": "opsrt",
+      "email": "sdfgh@gmail.com",
+      "phone": "3456789",
+      "website": "rtyu.uiop",
+      "id": 10
+    },
+    {
+      "name": "abc",
+      "username": "abc.l",
+      "email": "abc@gmail.com",
+      "phone": "234567098",
+      "website": "fgh.jkl",
+      "id": 11
+    },
+    {
+      "name": "ert",
+      "username": "ertyu",
+      "email": "fg@gmail.com",
+      "phone": "45678",
+      "website": "fgh.fghj",
+      "id": 13
+    },
+    {
+      "name": "past",
+      "username": "past.rt",
+      "email": "pastex@hj.com",
+      "phone": "4567890",
+      "website": "fghj.ghj",
+      "id": 14
+    },
+    {
+      "name": "ab",
+      "username": "abd",
+      "email": "abg@gmail.com",
+      "phone": "2345668",
+      "website": "dfghj.fghj",
+      "id": 16
+    },
+    {
+      "name": "sdfg",
+      "username": "sdfgh",
+      "email": "dfg.@gmail.com",
+      "phone": "234563",
+      "website": "gu8,hg",
+      "id": 17
+    },
+    {
+      "name": "mo",
+      "username": "ni",
+      "email": "moni@67gmail.com",
+      "phone": "45678",
+      "website": "fghj.hjk",
+      "id": 18
+    },
+    {
+      "name": "no",
+      "username": "mi",
+      "email": "mi.@gamil.com",
+      "phone": "67878",
+      "website": "fgh,jk",
+      "id": 19
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "product 1",
+      "url": "https://t3.ftcdn.net/jpg/02/96/19/88/360_F_296198884_iJvPPEL8ACqJETMHn6bs4cNmHv54MGMv.jpg",
+      "thumbnailUrl": "https://t3.ftcdn.net/jpg/02/96/19/88/360_F_296198884_iJvPPEL8ACqJETMHn6bs4cNmHv54MGMv.jpg",
+      "price": "9000",
+      "description": "For sake of providing a consistent user experience, keep the length and amount of data in the product fashion descriptions consistent across the category. If one product is too lengthy and the other product in the same category has a smaller description, your customers may feel that its not explained well. Thus, its important that you maintain a consistent amount of text in all your product descriptions. While your customers can not touch and feel the product, adjectives infused in the online clothing"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "product 2",
+      "url": "https://image.shutterstock.com/image-photo/full-length-stylish-multicultural-women-260nw-1855048690.jpg",
+      "thumbnailUrl": "https://image.shutterstock.com/image-photo/full-length-stylish-multicultural-women-260nw-1855048690.jpg",
+      "price": "900",
+      "description": "For sake of providing a consistent user experience, keep the length and amount of data in the product fashion descriptions consistent across the category. If one product is too lengthy and the other product in the same category has a smaller description, your customers may feel that its not explained well. Thus, its important that you maintain a consistent amount of text in all your product descriptions. While your customers can not touch and feel the product, adjectives infused in the online clothing"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "product 4",
+      "url": "https://image.shutterstock.com/image-photo/beauty-fashion-brunette-model-girl-260nw-604252502.jpg",
+      "thumbnailUrl": "https://image.shutterstock.com/image-photo/beauty-fashion-brunette-model-girl-260nw-604252502.jpg",
+      "price": "2100",
+      "description": "For sake of providing a consistent user experience, keep the length and amount of data in the product fashion descriptions consistent across the category. If one product is too lengthy and the other product in the same category has a smaller description, your customers may feel that its not explained well. Thus, its important that you maintain a consistent amount of text in all your product descriptions. While your customers can not touch and feel the product, adjectives infused in the online clothing"
+    },
+    {
+      "id": "7",
+      "title": "Awesome hat",
+      "url": "https://cdn.pixabay.com/photo/2017/05/13/12/40/fashion-2309519__340.jpg",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2017/05/13/12/40/fashion-2309519__340.jpg",
+      "price": "600",
+      "description": "vbnkj dfghjk vghjkilpolkm ijhbgv yhjk ",
+      "discription": "5"
+    },
+    {
+      "id": "8",
+      "title": "sunglasses",
+      "url": "https://cdn.pixabay.com/photo/2017/12/06/20/23/accessory-3002608_960_720.jpg",
+      "thumbnailUrl": "https://cdn.pixabay.com/photo/2017/12/06/20/23/accessory-3002608_960_720.jpg",
+      "price": "500",
+      "description": "eyeglasses with colored or tinted lenses that protect the eyes from the glare of sunlight."
+    },
+    {
+      "id": "3",
+      "title": "ring",
+      "url": "https://media.istockphoto.com/id/471709216/photo/engagement-and-a-promise-ring.webp?s=612x612&w=is&k=20&c=h12dtCme3P7pLL3j6h5UQ4Q9rBUDcNP8Fqf5-lZCKa8=",
+      "thumbnailUrl": "https://media.istockphoto.com/id/471709216/photo/engagement-and-a-promise-ring.webp?s=612x612&w=is&k=20&c=h12dtCme3P7pLL3j6h5UQ4Q9rBUDcNP8Fqf5-lZCKa8=",
+      "price": "10000",
+      "description": " a circular band used for holding, fastening, or connecting a key ring. 2 : a circular band usually of precious metal worn especially on the finger as jewelry. 3 : something circular in shape a smoke ring. 4 : an often circular space for shows or contests a circus ring."
+    }
+  ]
+}
