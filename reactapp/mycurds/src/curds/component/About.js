@@ -19,6 +19,7 @@ Determine the topic<br/>
 />
 
 
+
 <br/>
 Determine the topic of your informative paragraph. Remember, the point of an informative paragraph is to give the reader new information or explain how to do something. Topic choices for an informative paragraph are broad and varied. <br/>You can write on anything from, "How to Get Straight A's With Six Siblings at Home", to "How to Make Grits With Cheese."
 

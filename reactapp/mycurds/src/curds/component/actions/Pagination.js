@@ -8,6 +8,7 @@ function Pagination({ pages, setCurrentpage, searchdata }) {
   // console.log(reset,"opoiopoio")/
   const numOfPage = [];
 
+  
   for (let i = 1; i <= pages; i++) {
     numOfPage.push(i);
 
